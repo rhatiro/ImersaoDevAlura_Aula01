@@ -1,5 +1,5 @@
-Imersão Dev Alura - Aula 01 - Calculadora de média e conversor de temperaturas (Variáveis, operações e média)
--------------------------------------------------------------------------------------------------------------
+# Imersão Dev Alura - Aula 01 - Calculadora de média e conversor de temperaturas (Variáveis, operações e média)
+
 https://imersao.dev/aulas/aula01-variaveis-operacoes-media
 
 Desafios desta aula!
